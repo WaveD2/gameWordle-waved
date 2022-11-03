@@ -1,0 +1,9 @@
+.Heading-h1 {
+    font-size: var(--font-xlg);
+    font-weight: var(--font-semibold);
+    text-align: center;
+}
+.Question-h1 {
+    text-align: center;
+    color: aliceblue;
+}
